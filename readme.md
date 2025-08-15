@@ -1,32 +1,55 @@
-# Institutional Dossier – Criptrip.com Case
+# Institutional Defense — criptrip.com case
 
-## Summary  
-This repository documents the fraudulent freeze of **1,717,749.39 USDT** by the platform **criptrip.com**, under the false pretext of FinCEN verification. The claimant is an affected user acting independently, with no technical or institutional affiliation to the platform.
+**Complainant:** Eliud Juárez Templos (Independent whistleblower)  
+**Blocked Amount:** 1,717,749.39 USDT  
+**Status:** Active multi-agency escalation  
+**Repository Purpose:** Public documentation and reputational pressure
 
-## Role Declaration  
-**Name**: Eliud Juárez Templos  
-**Location**: Tulancingo, Hidalgo, Mexico  
-**Role**: Affected user and independent claimant  
-**Affiliation**: No technical or institutional link to Criptrip or Criptlan
+---
 
-## Entities Contacted  
-Formal complaints and evidence have been submitted to:  
-- **SEC** – Case ID: `17551-095-360-996`  
-- **FTC** – Case ID: `191469352`  
-- **FinCEN** – Case ID: `CRM:00101075879`  
-- **ICANN** – Domain abuse escalation  
-- **GNAME (Registrar)** – Case ID: `GW2025081410423569`  
-- **Cloudflare (Hosting)** – Case ID: `76f607de93aa7a34`
+## 📌 Institutional Entry Point
 
-## Contents  
-This repository includes:  
-- Formal letters and complaints (PDF)  
-- Technical evidence: screenshots, blockchain logs, domain records  
-- Translations in Spanish  
-- Institutional declarations and timeline
+👉 [Institutional defense summary — criptrip.com case (Issue #2)](https://github.com/EliudTemplos/criptrip-case/issues/2)
 
-## Purpose  
-This repository serves as a public institutional dossier to document, escalate, and legitimize the claimant’s defense. It is not a technical audit nor a commercial project.
+This pinned issue consolidates all formal complaints, evidence, and bilingual documentation. It serves as the public institutional anchor for reputational pressure and regulatory traceability.
 
-## Contact  
-For institutional inquiries or verification, contact via GitHub or through formal channels listed in the documents.
+---
+
+## 🧾 Formal Complaints Submitted
+
+Each document includes bilingual narrative, case numbers, and supporting evidence.
+
+- 📄 [SEC Submission](docs/SEC_2025-08-14.md)  
+- 📄 [FinCEN Submission](docs/FinCEN_2025-08-14.md)  
+- 📄 [FTC Submission](docs/FTC_2025-08-14.md)  
+- 📄 [ICANN/GNAME Submission](docs/ICANN_GNAME_2025-08-14.md)  
+- 📄 [Cloudflare Submission](docs/Cloudflare_2025-08-14.md)
+
+---
+
+## 🗂️ Repository Structure
+
+
+Each file contains bilingual documentation, case numbers, and operational evidence.
+
+---
+
+## 🛡️ Purpose
+
+This repository documents the institutional defense of an independent user affected by criptrip.com, a platform that blocked access to a verified account and demanded an external deposit under false FinCEN pretext.
+
+It is designed to:
+
+- Ensure public traceability  
+- Reinforce reputational pressure  
+- Support regulatory escalation  
+- Protect user legitimacy
+
+---
+
+## 📎 Related Issues
+
+- [Cloudflare abuse report (ID: 76f607de93aa7a34)](https://github.com/EliudTemplos/criptrip-case/issues/1)
+
+Update README.md — institutional structure and Issue #2 link
+
