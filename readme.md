@@ -58,9 +58,4 @@ This repository serves as a public institutional shield and reputational pressur
 
 The author of this repository is an independent complainant and affected user. He is not a technical operator or institutional auditor for Criptlan. All actions are based on operational experience, documentary rigor, and institutional escalation protocols.
 
----
-
- (ID: 76f607de93aa7a34)](https://github.com/EliudTemplos/criptrip-case/issues/1)
-
-Update README.md — institutional structure and Issue #2 link
 
