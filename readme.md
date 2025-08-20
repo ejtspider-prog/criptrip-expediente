@@ -1,55 +1,66 @@
-# Institutional Defense — criptrip.com case
+# 🛡️ Institutional Repository: Criptlan Controversy
 
-**Complainant:** Eliud Juárez Templos (Independent whistleblower)  
-**Blocked Amount:** 1,717,749.39 USDT  
-**Status:** Active multi-agency escalation  
-**Repository Purpose:** Public documentation and reputational pressure
+## 🧾 Platform Identity
 
----
+**Operational Name:** Criptlan  
+**Domain Used:** criptrip.com  
+**Access Type:** Transactional web interface with fraudulent institutional façade
 
-## 📌 Institutional Entry Point
-
-👉 Istitutional defense summary — criptrip.com case (Issue #2) https://github.com/EliudTemplos/criptrip-case/issues/2)
-
-This pinned issue consolidates all formal complaints, evidence, and bilingual documentation. It serves as the public institutional anchor for reputational pressure and regulatory traceability.
+The platform involved in this controversy operates under the name Criptlan, although it used the domain criptrip.com for transactional access. This distinction is essential to avoid technical misattribution and reinforce the documentary legitimacy of the case.
 
 ---
 
-## 🧾 Formal Complaints Submitted
+## 📂 Case Overview
 
-Each document includes bilingual narrative, case numbers, and supporting evidence.
-
-- 📄 SEC Submission (docs/SEC_2025-08-14.md)  
-- 📄 FinCEN Submission(docs/FinCEN_2025-08-14.md)  
-- 📄 FTC Submission (docs/FTC_2025-08-14.md)  
-- 📄 ICANN/GNAME Submission(docs/ICANN_GNAME_2025-08-14.md)  
-- 📄 Cloudflare Submission]docs/Cloudflare_2025-08-14.md)
+This repository documents the institutional controversy involving the platform Criptlan, which blocked a balance of 1,717,749.39 USDT and demanded an external deposit under a false pretext of FinCEN clearance. The affected party, acting as an independent complainant and operational user, has escalated the case to international entities with full traceability and bilingual documentation.
 
 ---
 
-## 🗂️ Repository Structure
+## 🧾 Documentary Structure
 
+All evidence has been uploaded separately and includes:
 
-Each file contains bilingual documentation, case numbers, and operational evidence.
+- Screenshots of platform interactions  
+- PDF exports of transaction logs  
+- Recorded demands and fraudulent instructions  
+- Formal complaints submitted to international entities  
+- Status updates and institutional responses
 
----
-
-## 🛡️ Purpose
-
-This repository documents the institutional defense of an independent user affected by criptrip.com, a platform that blocked access to a verified account and demanded an external deposit under false FinCEN pretext.
-
-It is designed to:
-
-- Ensure public traceability  
-- Reinforce reputational pressure  
-- Support regulatory escalation  
-- Protect user legitimacy
+Each file is timestamped and structured for auditability and public review.
 
 ---
 
-## 📎 Related Issues
+## 🏛️ Institutional Escalation
 
-- Cloudflare abuse report (ID: 76f607de93aa7a34)](https://github.com/EliudTemplos/criptrip-case/issues/1)
+The case has been formally escalated to multiple international entities, including financial regulators, consumer protection agencies, domain registrars, and infrastructure providers. All actions are documented with receipts, case numbers, and bilingual summaries.
+
+---
+
+## 📌 Domain Status
+
+The domain criptrip.com has been placed under Client Hold by its registrar, disabling its operational access. This resolution is part of the institutional pressure strategy and is documented in the repository.
+
+---
+
+## 🧭 Strategic Purpose
+
+This repository serves as a public institutional shield and reputational pressure protocol. It is designed to:
+
+- Preserve operational legitimacy  
+- Prevent technical over-attribution  
+- Escalate reputational pressure  
+- Enable traceable institutional defense  
+- Support international scrutiny and public awareness
+
+---
+
+## 📬 Author’s Role
+
+The author of this repository is an independent complainant and affected user. He is not a technical operator or institutional auditor for Criptlan. All actions are based on operational experience, documentary rigor, and institutional escalation protocols.
+
+---
+
+ (ID: 76f607de93aa7a34)](https://github.com/EliudTemplos/criptrip-case/issues/1)
 
 Update README.md — institutional structure and Issue #2 link
 
