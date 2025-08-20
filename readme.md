@@ -9,7 +9,7 @@
 
 ## 📌 Institutional Entry Point
 
-👉 [Institutional defense summary — criptrip.com case (Issue #2)](https://github.com/EliudTemplos/criptrip-case/issues/2)
+👉 Istitutional defense summary — criptrip.com case (Issue #2)https://github.com/EliudTemplos/criptrip-case/issues/2)
 
 This pinned issue consolidates all formal complaints, evidence, and bilingual documentation. It serves as the public institutional anchor for reputational pressure and regulatory traceability.
 
@@ -19,11 +19,11 @@ This pinned issue consolidates all formal complaints, evidence, and bilingual do
 
 Each document includes bilingual narrative, case numbers, and supporting evidence.
 
-- 📄 [SEC Submission](docs/SEC_2025-08-14.md)  
-- 📄 [FinCEN Submission](docs/FinCEN_2025-08-14.md)  
-- 📄 [FTC Submission](docs/FTC_2025-08-14.md)  
-- 📄 [ICANN/GNAME Submission](docs/ICANN_GNAME_2025-08-14.md)  
-- 📄 [Cloudflare Submission](docs/Cloudflare_2025-08-14.md)
+- 📄 SEC Submission (docs/SEC_2025-08-14.md)  
+- 📄 FinCEN Submission(docs/FinCEN_2025-08-14.md)  
+- 📄 FTC Submission (docs/FTC_2025-08-14.md)  
+- 📄 ICANN/GNAME Submission(docs/ICANN_GNAME_2025-08-14.md)  
+- 📄 Cloudflare Submission]docs/Cloudflare_2025-08-14.md)
 
 ---
 
@@ -49,7 +49,7 @@ It is designed to:
 
 ## 📎 Related Issues
 
-- [Cloudflare abuse report (ID: 76f607de93aa7a34)](https://github.com/EliudTemplos/criptrip-case/issues/1)
+- Cloudflare abuse report (ID: 76f607de93aa7a34)](https://github.com/EliudTemplos/criptrip-case/issues/1)
 
 Update README.md — institutional structure and Issue #2 link
 
