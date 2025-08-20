@@ -9,7 +9,7 @@
 
 ## 📌 Institutional Entry Point
 
-👉 Istitutional defense summary — criptrip.com case (Issue #2)https://github.com/EliudTemplos/criptrip-case/issues/2)
+👉 Istitutional defense summary — criptrip.com case (Issue #2) https://github.com/EliudTemplos/criptrip-case/issues/2)
 
 This pinned issue consolidates all formal complaints, evidence, and bilingual documentation. It serves as the public institutional anchor for reputational pressure and regulatory traceability.
 
